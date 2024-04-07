@@ -2,11 +2,11 @@
     "homepage": "https://github.com/FactorioSharp/FactoriOTel",
     "license": "MIT",
     "description": "Export Factorio data as OpenTelemetry signals",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FactorioSharp/FactoriOTel/releases/download/v0.1.0/FactoriOTel.0.1.0.win-x64.zip",
-            "hash": "b3cc71c70b91dad72f18eee94f24cb1497bd968c0f44bc516fbc6bcf6f28d19b"
+            "url": "https://github.com/FactorioSharp/FactoriOTel/releases/download/v0.1.1/FactoriOTel.0.1.1.win-x64.zip",
+            "hash": "a792f910cfadaa7054891df9b4d230457b498b588a95e9bb69381244612d0233"
         }
     },
     "bin": "FactoriOTel.exe"
